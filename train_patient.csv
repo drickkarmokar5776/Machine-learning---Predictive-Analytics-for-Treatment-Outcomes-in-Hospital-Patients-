@@ -1,0 +1,134 @@
+Name,Age,Disease,Gender,Treatment Cost,Effective
+John Smith, 35, Malaria, Male, 500, 75%
+Maria Garcia, 28, Typhoid, Female, 800, 85%
+Chinonso Eze, 42, Salmonella, Male, 600, 68%
+Aisha Khan, 20, Measles, Female, 400, 93%
+Jabari Williams, 50, Malaria, Male, 550, 72%
+Sakura Tanaka, 32, Typhoid, Female, 750, 80%
+Abdul Rahman, 38, Salmonella, Male, 700, 70%
+Leila Patel, 25, Measles, Female, 450, 88%
+Pablo Martinez, 45, Malaria, Male, 600, 78%
+Ananya Rao, 30, Typhoid, Female, 820, 82%
+Moussa Diop, 40, Salmonella, Male, 650, 65%
+Mei Chen, 22, Measles, Female, 420, 90%
+Femi Adeboye, 55, Malaria, Male, 580, 76%
+Fatima Mohamed, 29, Typhoid, Female, 780, 84%
+Jacob van der Berg, 48, Salmonella, Male, 680, 67%
+Amina Kamau, 24, Measles, Female, 430, 89%
+Ravi Patel, 60, Malaria, Male, 620, 74%
+Sofia Costa, 27, Typhoid, Female, 800, 81%
+Omar Mansour, 36, Salmonella, Male, 690, 69%
+Laila Said, 26, Measles, Female, 440, 91%
+Youssef El-Mahdi, 33, Malaria, Male, 570, 77%
+Priya Desai, 31, Typhoid, Female, 790, 83%
+Nadia Abdi, 39, Salmonella, Male, 660, 66%
+Jasmine Nguyen, 21, Measles, Female, 410, 92%
+Michael O'Brien, 34, Malaria, Male, 590, 73%
+Chioma Nwosu, 23, Typhoid, Female, 770, 79%
+Elias Kofi, 37, Salmonella, Male, 670, 68%
+Sara Ibrahim, 19, Measles, Female, 390, 94%
+Surya Tan, 37, Dengue Fever, Male, 450, 80%
+Anjali Gupta, 28, Typhoid, Female, 750, 85%
+Heng Sokha, 45, Malaria, Male, 600, 70%
+Ngoc Tran, 22, Chikungunya, Female, 400, 90%
+Pakpao Sombat, 55, Dengue Fever, Male, 500, 75%
+Pham Thi Lan, 32, Typhoid, Female, 800, 82%
+Hadi bin Rahman, 40, Malaria, Male, 650, 68%
+Bao Nguyen, 24, Chikungunya, Female, 420, 88%
+Ramesh Singh, 48, Dengue Fever, Male, 550, 72%
+Maya Devi, 30, Typhoid, Female, 780, 84%
+Dara Khem, 42, Malaria, Male, 700, 65%
+Siti Zahara, 26, Chikungunya, Female, 430, 92%
+Suphachai Wong, 50, Dengue Fever, Male, 580, 78%
+Somchai Phan, 29, Typhoid, Female, 820, 86%
+Ravi Kumar, 36, Malaria, Male, 680, 69%
+Linh Nguyen, 25, Chikungunya, Female, 440, 91%
+Virak Chan, 33, Dengue Fever, Male, 600, 77%
+Trang Le, 31, Typhoid, Female, 790, 83%
+Arun Patel, 38, Malaria, Male, 670, 66%
+Malika Khan, 27, Chikungunya, Female, 450, 93%
+Nurul Huda, 35, Dengue Fever, Male, 590, 74%
+Mai Phuong, 23, Typhoid, Female, 770, 80%
+Kasem Prasong, 39, Malaria, Male, 660, 67%
+Nisa Lee, 21, Chikungunya, Female, 460, 94%
+Aroha Williams, 34, Influenza, Female, 600, 82%
+Tane Davis, 28, Pneumonia, Male, 800, 88%
+Marama Patel, 42, Gastroenteritis, Female, 550, 75%
+Wiremu Thompson, 25, Bronchitis, Male, 400, 90%
+Anahera Clark, 38, Sinusitis, Female, 700, 79%
+Hemi Wilson, 31, Otitis Media, Male, 650, 84%
+Kiri Smith, 47, Conjunctivitis, Female, 750, 72%
+Piri Brown, 22, Dermatitis, Male, 500, 87%
+Kowhai Taylor, 40, Tonsillitis, Female, 820, 81%
+Tama Jones, 29, Stomach Flu, Male, 600, 86%
+Mere King, 36, Urinary Tract Infection, Female, 680, 78%
+Rawiri Ngata, 33, Appendicitis, Male, 730, 85%
+Whetu Davis, 26, Allergic Rhinitis, Female, 450, 92%
+Kahu Wilson, 39, Cellulitis, Male, 700, 77%
+Miriama Thompson, 24, Conjunctivitis, Female, 480, 91%
+Tane Smith, 45, Migraine, Male, 580, 74%
+Aroha Brown, 27, Bronchitis, Female, 520, 89%
+Marama Patel, 43, Sinusitis, Male, 670, 76%
+Hemi Jones, 30, Tonsillitis, Female, 790, 83%
+Kiri Williams, 48, Otitis Media, Male, 720, 71%
+Piri Clark, 21, Dermatitis, Female, 430, 94%
+Kowhai King, 37, Gastroenteritis, Male, 690, 80%
+Tama Ngata, 32, Stomach Flu, Female, 610, 85%
+Mere Davis, 35, Influenza, Male, 740, 76%
+Rawiri Taylor, 23, Pneumonia, Female, 470, 90%
+Whetu Thompson, 41, Appendicitis, Male, 710, 73%
+Kahu Wilson, 28, Urinary Tract Infection, Female, 540, 88%
+Miriama Jones, 46, Migraine, Male, 590, 72%
+Carlos Ramirez, 36, Influenza, Male, 600, 85%
+Maria Lopez, 29, Pneumonia, Female, 800, 90%
+Javier Martinez, 43, Gastroenteritis, Male, 550, 78%
+Ana Silva, 24, Bronchitis, Female, 400, 92%
+Diego Hernandez, 39, Sinusitis, Male, 700, 80%
+Sofia Rodriguez, 31, Otitis Media, Female, 650, 88%
+Alejandro Gonzalez, 45, Conjunctivitis, Male, 750, 73%
+Isabella Chavez, 22, Dermatitis, Female, 500, 94%
+Juan Torres, 40, Tonsillitis, Male, 820, 82%
+Valentina Ramirez, 27, Stomach Flu, Female, 600, 86%
+Mateo Perez, 35, Urinary Tract Infection, Male, 680, 79%
+Luisa Morales, 33, Appendicitis, Female, 730, 84%
+Emilio Suarez, 26, Allergic Rhinitis, Male, 450, 93%
+Camila Diaz, 41, Cellulitis, Female, 700, 77%
+Gabriel Fernandez, 25, Conjunctivitis, Male, 480, 91%
+Victoria Ortiz, 46, Migraine, Female, 580, 74%
+Andres Rivera, 28, Bronchitis, Male, 520, 89%
+Juliana Santos, 42, Sinusitis, Female, 670, 76%
+Sebastian Cruz, 30, Tonsillitis, Male, 790, 83%
+Lucia Gomez, 48, Otitis Media, Female, 720, 71%
+Matias Sanchez, 21, Dermatitis, Male, 430, 95%
+Elena Vargas, 37, Gastroenteritis, Female, 690, 80%
+Diego Pena, 32, Stomach Flu, Male, 610, 87%
+Marisol Castillo, 34, Influenza, Female, 740, 76%
+Josefina Romero, 23, Pneumonia, Male, 470, 90%
+Miguel Martinez, 29, Appendicitis, Female, 710, 73%
+Daniela Morales, 44, Migraine, Male, 590, 72%
+Javier García, 38, Influenza, Male, 600, 85%
+Elena Martínez, 31, Pneumonia, Female, 800, 90%
+Carlos Rodríguez, 45, Gastroenteritis, Male, 550, 78%
+Ana López, 26, Bronchitis, Female, 400, 92%
+Diego Fernández, 40, Sinusitis, Male, 700, 80%
+Sofía Gómez, 33, Otitis Media, Female, 650, 88%
+Antonio Pérez, 47, Conjunctivitis, Male, 750, 73%
+María Ruiz, 24, Dermatitis, Female, 500, 94%
+Pedro Sánchez, 42, Tonsillitis, Male, 820, 82%
+Carmen García, 29, Stomach Flu, Female, 600, 86%
+Pablo Martín, 36, Urinary Tract Infection, Male, 680, 79%
+Isabel Hernández, 34, Appendicitis, Female, 730, 84%
+Miguel López, 27, Allergic Rhinitis, Male, 450, 93%
+Laura González, 41, Cellulitis, Female, 700, 77%
+Manuel Martínez, 25, Conjunctivitis, Male, 480, 91%
+Rosa Díaz, 46, Migraine, Female, 580, 74%
+José Navarro, 28, Bronchitis, Male, 520, 89%
+Marina Castro, 43, Sinusitis, Female, 670, 76%
+Juan Torres, 30, Tonsillitis, Male, 790, 83%
+Luisa Vidal, 48, Otitis Media, Female, 720, 71%
+Jorge García, 23, Dermatitis, Male, 430, 95%
+Inés Rodríguez, 37, Gastroenteritis, Female, 690, 80%
+Alberto López, 32, Stomach Flu, Male, 610, 87%
+Clara Martínez, 35, Influenza, Female, 740, 76%
+David Pérez, 29, Pneumonia, Male, 470, 90%
+Eva Ruiz, 44, Migraine, Female, 710, 73%
